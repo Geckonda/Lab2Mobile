@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">2 лаб</string>
+
+    <string name="author">Арсений Луговой</string>
+
+    <string name="pict1title">Шёпот деревьев</string>
+
+    <string name="pict2title">Величие гор</string>
+
+    <string name="pict3title">Серебряная река</string>
+
+    <string name="pict4title">Лесная опушка</string>
+
+    <string name="pict5title">Морской бриз</string>
+
+    <string name="previous_btn">Предыдущий</string>
+    <string name="next_btn">Следующий</string>
+</resources>
