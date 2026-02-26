@@ -1,3 +1,18 @@
 <resources>
     <string name="app_name">Lab2Mobile</string>
+
+    <string name="author">Arseny Lugovoy</string>
+
+    <string name="pict1title">Whisper of the woods</string>
+
+    <string name="pict2title">Mountain Majesty</string>
+
+    <string name="pict3title">Silver River</string>
+
+    <string name="pict4title">Forest Edge</string>
+
+    <string name="pict5title">Sea Breeze</string>
+
+    <string name="previous_btn">Previous</string>
+    <string name="next_btn">Next</string>
 </resources>
